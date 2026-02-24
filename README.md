@@ -1,6 +1,6 @@
 # reservation-manager-compositon
 
-Rewritten version of reservation-manager-frontend using Vue 3 Composition API and Pinia.
+Rewritten version of reservation-manager-frontend using Vue 3 Composition API with TypeScript and Pinia.
 
 ## Recommended IDE Setup
 
